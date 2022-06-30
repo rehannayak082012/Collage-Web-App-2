@@ -1,0 +1,14 @@
+#camera
+{
+    width:100px;
+    height: 50px;
+    border:1px solid grey;
+}
+#textbox
+{
+    width: 300px;
+}
+#start-btn
+{
+    width: 100%;
+}
